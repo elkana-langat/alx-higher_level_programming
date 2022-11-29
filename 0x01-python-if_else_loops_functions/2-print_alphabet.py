@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 
 for x in range(97, 123):
-    print(chr(x), end="")
+    a = chr(x)
+    print(f"{a}", end="")
