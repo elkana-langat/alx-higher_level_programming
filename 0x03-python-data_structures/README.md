@@ -6,3 +6,7 @@ Write a lists that prints all integers of a list
 ## 1. Secure access to an element in a list
 Write a function that retrieves an element from a list in C
 
+## 2. Replace element
+Write a function that replaces an element of a list at a specific position(like in c)
+
+
