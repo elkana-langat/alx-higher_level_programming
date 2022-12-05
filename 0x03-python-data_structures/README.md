@@ -9,4 +9,6 @@ Write a function that retrieves an element from a list in C
 ## 2. Replace element
 Write a function that replaces an element of a list at a specific position(like in c)
 
+## 3. Print a list of integers... in reverse
+Write a function that all integers of a list, in reverse order
 
