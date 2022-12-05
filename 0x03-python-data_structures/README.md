@@ -12,3 +12,7 @@ Write a function that replaces an element of a list at a specific position(like 
 ## 3. Print a list of integers... in reverse
 Write a function that all integers of a list, in reverse order
 
+## 4. Replace a copy
+Write a function that replaces an element in a list at a specific position without modifying the original list(like in c)
+
+
