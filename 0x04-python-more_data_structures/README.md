@@ -36,3 +36,6 @@ Write a function that returns a key with the biggest integer value.
 
 ## 11. Multiply by using map
 Write a function that returns a list with all the values multiplied by a number without using any loops
+
+## 12. Roman to integer
+Create a function def roman_to_int(roman_string): that converts a Roman numerical to an integer.
