@@ -21,3 +21,18 @@ Write a function that returns the number of keys in a dictionary
 
 ## 6. Print sorted dictionary
 Write a function that prints a dictionary by ordered keys
+
+## 7. Update Dictionary
+Write a function that replaces or adds key/value in a dictionary
+
+## 8. Simple delete by key
+Write a function that deletes a key in a dictionary
+
+## 9. Multiple by 2
+Write a function that returns a new dictionary with all values multiplied by 2
+
+## 10. Best score
+Write a function that returns a key with the biggest integer value.
+
+## 11. Multiply by using map
+Write a function that returns a list with all the values multiplied by a number without using any loops
