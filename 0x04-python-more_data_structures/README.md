@@ -39,3 +39,15 @@ Write a function that returns a list with all the values multiplied by a number 
 
 ## 12. Roman to integer
 Create a function def roman_to_int(roman_string): that converts a Roman numerical to an integer.
+
+## 13. Weighted average!
+Write a function that returns the weighted average of all integers tuple (<score>, <weight>)
+
+## 14. Squared by using map
+Write a function that computes the square value of all integers of a matrix using map
+
+## 15. Delete by value
+Write a function that deletes keys with a specific value in a dictionary
+
+## 16. CPython #1: PyBytesObject
+Create two c functions that print some basic info about Python lists and Python bytes objects
