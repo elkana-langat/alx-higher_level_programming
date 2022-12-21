@@ -12,10 +12,6 @@ class Square:
             size (int): The size of the square.
             position (tuple): The position of the square.
         """
-        if not isinstance(size, int):
-            raise TypeError("size must be an integer")
-        elif size < 0:
-            raise ValueError("size must be >= 0")
         self.__size = size
         self.__position = position
 
@@ -49,10 +45,12 @@ class Square:
     @position.setter
     def position(self, value):
         """Setter method for the values passed."""
-        if not isinstance(value, tuple):
+        if not isinstance(value, tuple) or len(value) != 2:
             raise TypeError("position must be a tuple of 2 positive integers")
-        elif self.__position[0] < 0 or self.__position[1]:
-            raise TypeError("Position must be a tuple of 2 positive integers")
+        elif not all(isinstance(num, int) for num in value):
+            raise TypeError("position must be a tuple of 2 positive integers")
+        elif not all(num >= 0 for num in value):
+            raise TypeError("position must be a tuple of 2 positive integers")
         self.__position = value
 
     def my_print(self):
