@@ -27,3 +27,5 @@ Write a class Rectangle that defines a rectangle by: (based on 6-rectangle.py)
 ## 8. Compare rectangles
 Write a class Rectangle that defines a rectangle by: (based on 7-rectangle.py)
 
+## 9. A sqaure is a rectangle
+Write a class Rectangle that defines a rectangle by: (based on 8-rectangle.py
