@@ -23,3 +23,24 @@ How do you get the variable ideintifier(which is the memory address in the CPyth
 ## 9. Is really the same
 
 ## 10. And with a list, is it equal
+
+## 11.And with a list, is it the same
+
+## 12. And with a list, is it really equal
+
+## 13. And with a list, is it really the same
+
+## 14. List append
+
+## 15. List add
+
+## 16. Integer incrementation
+
+## 17. LIst incrementation
+
+## 18. List assignment
+
+## 19. Copy a list Object
+Write a function def copy_list(l): that returns a copy of a list
+
+## 20. Tuple or not
