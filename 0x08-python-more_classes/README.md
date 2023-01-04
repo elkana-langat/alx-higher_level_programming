@@ -18,3 +18,6 @@ Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
 ## 5. Detect instance deletion
 Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py)
 
+## 6. How many instances
+Write a class Rectangle that defines a rectangle by: (based on 5-rectangle.py)
+
