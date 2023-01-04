@@ -14,3 +14,12 @@ How do you get the variable ideintifier(which is the memory address in the CPyth
 
 ## 5. Right count =+
 
+## 6. Is equal
+
+## 7. Is the same
+
+## 8. Is really equal
+
+## 9. Is really the same
+
+## 10. And with a list, is it equal
