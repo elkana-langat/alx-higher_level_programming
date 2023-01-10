@@ -15,3 +15,9 @@ Write a function that returns the JSON representation of an object(string):
 ## 4. From JSON string to Object
 Write a function that returns an object(python data structure) represented by a JSON string
 
+## 5. Save Object to a file
+Write a function that writes an Object to a text file, using JSON representation.
+
+## 6. Create object from a JSON file
+Write a function that creates an Object from a "JSON file":
+
