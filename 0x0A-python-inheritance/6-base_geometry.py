@@ -3,7 +3,7 @@
 
 
 class BaseGeometry:
-    """Defines a method area which raises an exception."""
+    """Represents base geometry"""
 
     def area(self):
         """Not implimented raises an exception."""
