@@ -27,3 +27,11 @@ Write a script that adds all arguments to a Python list, and then save them to a
 ## 8. Class to JSON
 Write a function that returns the dictionary description with simple data structure(list, dictionary, string, integer and boolean) for JSON serialization of an Object
 
+## 9. Student to JSON
+Write a class Stident that defines a student
+
+## 10. Student to JSON with filter
+
+## 11. Student to disk and reload
+
+## 12. Pascal's Triangle
