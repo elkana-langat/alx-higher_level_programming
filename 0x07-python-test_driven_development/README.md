@@ -7,5 +7,8 @@ Write a function that adds integers.
 Write a function that divides all elements of a matrix
 
 ## 2. say my name
-Write a function that prints "My name is <first name> <last name"
+Write a function that prints "My name is first name last name"
+
+## 3. print square
+Write a function that prints a square with the character #
 
