@@ -64,4 +64,11 @@ Update the class Rectangle by updating the public method def update(self, *args)
 ## 10. And now, the Square!
 Write the class Square that inherits from Rectangle
 
+## 11. Square size
+Update the class square by adding the public getter and setter
 
+## 12. Square update
+Update the class Square by adding the public method def update(...) that assigns attributes
+
+## 13. Rectangle instance to dictionary representation
+UPdate the class Rectangle by adding the public method def to_dictionary(self): that returns the dictionary represenation of a rectangle
