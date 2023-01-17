@@ -72,3 +72,21 @@ Update the class Square by adding the public method def update(...) that assigns
 
 ## 13. Rectangle instance to dictionary representation
 UPdate the class Rectangle by adding the public method def to_dictionary(self): that returns the dictionary represenation of a rectangle
+
+## 14. Square instance to dictionary representation
+Update the class Square by adding the public method def to_dictioanry(self): that returns the dictionary representation of a square
+
+## 15. Dictionary to JSON string
+JSON is one of the standard formats for sharing data representation.
+
+## 16. JSON string to file
+Update the classs Base by adding the class method def save_to_file(cls, list_objs): that write the JSON string representation to list_objs to a file
+
+## 17. JSON string to dictionary
+Update the class Base by adding the static method def from_json_string(json_string): that returns the list of the JSON string representation json_string
+
+## 18. Dictionary to Instance
+Update the class Base by adding the class method def create(cls, **dictionary): that returns an instance with all attributes already set
+
+## 19. File to instances
+Update the class Base by adding the class method def load_from_file(cls): that returns a list of instances:
