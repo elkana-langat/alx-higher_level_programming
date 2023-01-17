@@ -36,3 +36,32 @@ This class will be the "base" of all other classes in this project. The goal of 
 ## 2. First Rectangle
 Write the class Rectangle that inherits from Base:
 
+## 3. Validate attributes
+Update the class Rectangle by addig validation of all setter methods and instantiation (id excluded):
+- If the input is not an integer, raise the TyperError exception with the message "name of the attribute must be an integer.
+- If the width or height is under or equal to 0, raise the ValueError exception.
+- If x or y is under 0, raise the ValueError exception
+
+## 4. Area first
+Update the class Rectangle by adding the publuc method def are(self):
+that returns the area value of the Rectangle instance
+
+## 5. Display #0
+Update the class Rectangle by adding the public method def display(self): that prints in stdout the Rectangle instance with the character #
+
+## 6. "__str__"
+Update the class Rectangle by overdiding the __str__ mthod so that it returns [Rectangle] (<id>) <x>/<y> - <width>/<height>
+
+## 7. Display #1
+Update the class Rectangle by improving the public method def display(self): to print to stdout the Rectangle instance with the character # by taking care of x and y
+
+## 8. Update # 0
+Update the class Rectangle by adding the public method def update(self, *args): that assigns an arguments to each attribute
+
+## 9. Update#1
+Update the class Rectangle by updating the public method def update(self, *args): by changing the prototype to update(self, *args, **kwargs) that assigns a key/value argument to attributes
+
+## 10. And now, the Square!
+Write the class Square that inherits from Rectangle
+
+
